@@ -1,0 +1,14 @@
+{
+  "name": "location-transformation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "transform": "node index"
+  },
+  "author": "@niyobobo",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
